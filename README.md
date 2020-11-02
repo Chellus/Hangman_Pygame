@@ -1,10 +1,10 @@
-#Hangman_Pygame
+# Hangman_Pygame
 
-##Description
+## Description
 
 TODO
 
-##How to install the project
+## How to install the project
 
 TODO
 
